@@ -5,3 +5,6 @@ echo "My favorite color is $3"
 echo "The 10th argument is ${10}"
 echo "The 11th argument is $11"
 
+# special parameter to count the output
+echo $#
+
